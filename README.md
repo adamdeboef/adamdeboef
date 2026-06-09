@@ -1,79 +1,72 @@
-# Hi there, I'm Adam 👋
+# Data Analysis Portfolio \| Neurophysiology & Quantitative Research
 
-<!-- Add your profile photo or introduction here -->
+**Adam De Boef PhD. \| Neurophysiology** Skilled in experimental design, physiological data acquisition, and statistical modeling with a focus on reproducible, transparent analysis in R.
 
-## About Me
-<!-- PASTE YOUR PROFILE TEXT HERE -->
-> Add a brief introduction about yourself, your background, and what you're passionate about.
+------------------------------------------------------------------------
 
----
+## About This Repository
 
-## 🔬 Analytical Skills & Expertise
+This portfolio showcases a selection of data analysis scripts developed across approximately six years of doctoral research in neurophysiology. The work here spans real experimental data collected during my PhD and simulated physiological data sets designed to demonstrate analytical methods in a shareable format.
 
-### Data Analysis & Statistical Methods
-- **Statistical Modeling**: Linear regression, mixed-effects models, hierarchical clustering
-- **Physiological Data Analysis**: EMG analysis, signal processing, biomechanics
-- **Research Methods**: Experimental design, within-subject repeated measures, hypothesis testing
-- **Data Visualization**: Creating meaningful visualizations from complex datasets
+**What this repository is not:** a complete record of every analysis I have conducted. Many data sets remain proprietary, unpublished, or too large for a public showcase. What you will find here represents the most tangible, well-documented examples of my quantitative skill set, organized to give reviewers a clear picture of how I approach data.
 
-### Technical Skills
-- **Programming Languages**: R, Python, SQL
-- **Data Visualization Tools**: ggplot2, Matplotlib, Seaborn
-- **Statistical Software**: R, RStudio
-- **Version Control**: Git, GitHub
+All code is written in **R / RStudio** unless otherwise noted.
 
----
+------------------------------------------------------------------------
 
-## 📊 Featured Projects
+## Background
 
-### [EMG Analysis](https://github.com/adamdeboef/EMG-Analysis)
-<!-- PASTE PROJECT 1 DESCRIPTION -->
-Physiological data analysis project demonstrating signal processing and statistical techniques.
+My doctoral research centered on propriectpive feedback into spinal circuits in spinally intact and spinally compromised subjects. The data sets and methods in this portfolio reflect the types of questions I worked on: characterizing electrophysiological signals, modeling physiological relationships, and identifying patterns across experimental conditions and subjects.
 
-### [Hierarchical Clustering](https://github.com/adamdeboef/Hierarchical-Clustering)
-<!-- PASTE PROJECT 2 DESCRIPTION -->
-Example of how hierarchical clustering can be used to identify groups based on physiological data.
+Following completion of my PhD, I worked as a contracted Science officer for CDMRP spinal cord research program. After which I spent a year living in China with my wife, during which I pursued language immersion classes and reached proficiency in mandarin. I am now actively seeking industry roles where quantitative expertise meets complex clinically relevant solutions/questions.
 
-### [Linear Regression Model - EMG Fatigue Force](https://github.com/adamdeboef/Linear-Regression-Model---EMG-Fatigue-Force)
-<!-- PASTE PROJECT 3 DESCRIPTION -->
-Complete linear modeling workflow in R using a physiology-focused dataset.
+------------------------------------------------------------------------
 
-### [Mixed Model - Within Subject Repeated Measures](https://github.com/adamdeboef/Mixed-model---Within-Subject-Repeated-Measure-Within-Multiple-Groups)
-<!-- PASTE PROJECT 4 DESCRIPTION -->
-Statistical analysis and data visualization of within-subject repeated measures experiments with intermuscular inhibitory data.
+## Repository Contents
 
----
+### Current Analyses
 
-## 🎯 What I'm Looking For
-<!-- PASTE YOUR GOALS HERE -->
-- Opportunities to apply analytical and statistical expertise
-- Collaborations on data-driven projects
-- Roles focused on data analysis and research
+| Script / Folder | Method |
+|------------------------------------|------------------------------------|
+| `emg_analysis/` | EMG signal processing and amplitude quantification |
+| `linear_regression/` | Simple and multiple linear regression modeling |
+| `hierarchical_clustering/` | Unsupervised clustering of physiological variables |
+| `mixed_model/` | Linear mixed models and paired t-test comparisons |
 
----
+More analyses will be added as additional datasets are prepared for public sharing.
 
-## 📈 Quick Stats
-- 📚 Experience with statistical analysis and physiological research
-- 🔍 Strong attention to detail in data interpretation
-- 💻 Proficient in R programming and data visualization
-- 🧪 Methodical approach to experimental design and hypothesis testing
+------------------------------------------------------------------------
 
----
+## Methods & Tools
 
-## 🔗 Connect With Me
+**Primary environment:** R / RStudio
 
-<!-- Uncomment and update these sections with your information -->
+**Packages used across analyses** (varies by script):
 
-<!-- **Email**: [your.email@example.com](mailto:your.email@example.com) -->
-<!-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) -->
-<!-- **Website/Portfolio**: [Your Website](https://yourwebsite.com) -->
+-   `lme4`, `nlme` for mixed-effects modeling
+-   `ggplot2`, `ggpubr` for visualization
+-   `dplyr`, `tidyr` for data wrangling
+-   `cluster`, `factoextra` for clustering
+-   `signal`, `pracma` for physiological signal processing
+-   Additional packages documented within each script
 
----
+------------------------------------------------------------------------
 
-## 📝 Recent Activity
+## How to Use This Repository
 
-Check out my repositories above to see my latest work in analytical data science and statistical modeling.
+1.  Clone or download the repository.
+2.  Open the `.Rproj` file (if present) or set your working directory to the project root.
+3.  Each folder is self-contained with its own script, data file (or data-generation code), and a brief `README` or header explaining the analysis.
+4.  Package dependencies are listed at the top of each script and can be installed with `install.packages()`.
 
----
+------------------------------------------------------------------------
 
-**Note**: Feel free to explore my repositories and reach out if you have any questions about my projects or analytical approach!
+## Contact
+
+If you have questions about the methods, the data, or my research background, feel free to reach out.
+
+**Email:** "[adam.deboef\@gmail.com](mailto:adam.deboef@gmail.com){.email}" **LinkedIn:** <https://www.linkedin.com/in/adamdeboef/>
+
+------------------------------------------------------------------------
+
+*This portfolio is actively maintained. New analyses and documentation will be added on a rolling basis.*
