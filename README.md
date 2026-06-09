@@ -16,9 +16,9 @@ All code is written in **R / RStudio** unless otherwise noted.
 
 ## Background
 
-My doctoral research centered on propriectpive feedback into spinal circuits in spinally intact and spinally compromised subjects. The data sets and methods in this portfolio reflect the types of questions I worked on: characterizing electrophysiological signals, modeling physiological relationships, and identifying patterns across experimental conditions and subjects.
+My doctoral research centered on proprioceptive feedback into spinal circuits in spinally intact and spinally compromised subjects. The data sets and methods in this portfolio reflect these types of research analysis.
 
-Following completion of my PhD, I worked as a contracted Science officer for CDMRP spinal cord research program. After which I spent a year living in China with my wife, during which I pursued language immersion classes and reached proficiency in mandarin. I am now actively seeking industry roles where quantitative expertise meets complex clinically relevant solutions/questions.
+Following completion of my PhD, I worked as a contracted Science Officer for CDMRP spinal cord research program. After which I spent a year living in China with my wife, during which I pursued language immersion classes and reached proficiency in Mandarin. I am now actively seeking industry roles where quantitative expertise meets complex clinically relevant solutions/questions.
 
 ------------------------------------------------------------------------
 
